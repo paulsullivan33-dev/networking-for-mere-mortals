@@ -1,0 +1,25 @@
+site_name: Networking for Mere Mortals
+site_description: Plain-language networking guides — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/networking-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Networking Is: what-networking-is.md
+  - IP Addresses: ip-addresses.md
+  - Subnetting in 10 Minutes: subnetting.md
+  - DNS: dns.md
+  - Ports and Protocols: ports-and-protocols.md
+  - Your LAN: your-lan.md
+  - WiFi: wifi.md
+  - The Path to the Internet: internet-path.md
+  - Diagnostic Tools: diagnostic-tools.md
+  - Home Networking in Practice: home-networking.md
+  - Security Basics: security-basics.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
